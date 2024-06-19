@@ -6,5 +6,8 @@
     "WOMEN": "Damskie",
     "HOME": "Domowe",
     "SPORT": "Sportowe"
+  },
+  "SPORT": {
+    "HEADER": "Buty Sportowe"
   }
 }

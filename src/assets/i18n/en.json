@@ -6,5 +6,8 @@
     "WOMEN": "Women",
     "HOME": "Home",
     "SPORT": "Sport"
+  },
+  "SPORT": {
+    "HEADER": "Sport Shoes"
   }
 }
