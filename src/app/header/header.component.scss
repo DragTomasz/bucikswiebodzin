@@ -1,0 +1,25 @@
+:host ::ng-deep .p-menubar {
+  position: relative;
+  height: 53px;
+  margin-bottom: 40px;
+}
+
+:host ::ng-deep .p-menubar .p-menubar-button{
+  position: absolute;
+  right: 0;
+  top: 100%;
+  transform: translateX(-50%) translateY(-135%);
+}
+
+@media screen and (min-width: 960px) {
+  :host ::ng-deep  .p-menubar-root-list>li:last-child .p-submenu-list {
+    right: 0;
+  }
+
+  :host ::ng-deep .p-menubar .p-menubar-root-list {
+    position: absolute;
+    right: 0;
+    top: 100%;
+    transform: translateX(-5%) translateY(-115%);
+  }
+}

@@ -1,0 +1,17 @@
+<!--<p (click)="openModal(0)" >product-wrapper works!</p>-->
+
+
+<!--<div class="gallery">-->
+<!--  <div *ngFor="let image of images; let i = index" class="image-container">-->
+<!--    <img [src]="image.modal.img" (click)="openModal( i)" />-->
+<!--  </div>-->
+<!--</div>-->
+
+<gallery
+  [flexBorderSize]="3"
+  [flexImageSize]="7"
+  [galleryName]="'test'"
+  [maxRowsPerPage]="100"
+  [includeViewer]="true"
+  [lazyLoadGalleryImages]="true"
+></gallery>
