@@ -7,7 +7,20 @@
     "HOME": "Home",
     "SPORT": "Sport"
   },
+  "MEN": {
+    "HEADER": "Men's Shoes",
+    "CONTENT": "Our men's shoes are crafted with extraordinary attention to detail by experienced Polish artisans, guaranteeing their unmatched quality and durability. Each pair of shoes is a testament to passion and skill, ensuring exceptional resilience and style. In our selection, you'll find shoes produced in Poland by established and respected companies that have earned customer trust for years. This assures you that choosing our shoes means investing in a product designed for years of wear. Furthermore, our shoes have been tested by customers for over 30 years, serving as the best proof of their reliability and durability. Numerous positive reviews and stories from satisfied users confirm that these shoes meet the expectations of even the most demanding men. Join the group of those who value exceptional quality and style by choosing our Polish-made leather shoes."
+  },
+  "WOMEN": {
+    "HEADER": "Women's Shoes",
+    "CONTENT": "Our collection of women's shoes, from Polish companies and manufacturers, combines high-quality craftsmanship with ergonomic design. Each pair is precisely contoured to provide proper support and comfort for the feet throughout the day. We collaborate exclusively with Polish firms, ensuring attention to every detail and the durability of the product. By choosing our shoes, you opt for healthy materials that are skin-friendly and offer wearing comfort. Our footwear is a blend of functionality, style, and care for well-being, suitable for women who value an active lifestyle and aesthetics."
+  },
   "SPORT": {
-    "HEADER": "Sport Shoes"
+    "HEADER": "Sport Shoes",
+    "CONTENT": "Discover our collection of shoes from American Club - lightweight, comfortable, and designed with everyday comfort in mind. The collection includes shoes with a memory foam insole that adapts to the shape of the foot, providing personalized support and reducing fatigue while walking. Our shoes are made from breathable materials, ensuring that feet stay dry and comfortable for a long time. Their lightweight construction makes them an ideal choice for those who value an active lifestyle. We offer a variety of models that will suit both daily activities and more demanding conditions. We invite you to choose the model that best meets your needs."
+  },
+  "HOME": {
+    "HEADER": "Home Shoes",
+    "CONTENT": "We offer home slippers from Polish manufacturers, focused on comfort and quality. Made in Poland from natural materials such as linen, cotton, and leather, our slippers combine durability with wearing comfort. By choosing our products, you support local craftsmanship and eco-friendly materials, ensuring comfort in every step. Ideal for home use, our slippers come in various styles to meet your needs."
   }
 }

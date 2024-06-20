@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, Input} from '@angular/core';
 import {Angular2ImageGalleryModule} from "angular2-image-gallery";
 import {HammerModule} from "@angular/platform-browser";
 import {CardModule} from 'primeng/card';
@@ -11,11 +11,10 @@ import {TranslateModule} from "@ngx-translate/core";
   templateUrl: './product-wrapper.component.html',
   styleUrl: './product-wrapper.component.scss'
 })
-export class ProductWrapperComponent implements OnInit {
+export class ProductWrapperComponent {
 
-  constructor() {
-  }
-
-  ngOnInit(): void {
-  }
+  @Input() gallery: string = '';
+  @Input() header: string = '';
+  @Input() content: string = '';
+  @Input() maxRows: number = 3;
 }

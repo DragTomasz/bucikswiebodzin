@@ -6,5 +6,21 @@
     "WOMEN": "Damen",
     "HOME": "Haushalt",
     "SPORT": "Sport"
+  },
+  "MEN": {
+    "HEADER": "Herrenschuhe",
+    "CONTENT": "Unsere Herrenschuhe werden von erfahrenen polnischen Handwerkern mit außerordentlicher Liebe zum Detail gefertigt, was ihre unübertroffene Qualität und Haltbarkeit garantiert. Jedes Paar Schuhe ist ein Zeugnis der Leidenschaft und des Könnens und garantiert außergewöhnliche Widerstandsfähigkeit und Stil. In unserem Sortiment finden Sie Schuhe, die in Polen von etablierten und angesehenen Unternehmen hergestellt werden, die sich das Vertrauen ihrer Kunden seit Jahren verdient haben. Dies gibt Ihnen die Gewissheit, dass Sie mit unseren Schuhen in ein Produkt investieren, das für jahrelanges Tragen ausgelegt ist. Außerdem wurden unsere Schuhe über 30 Jahre lang von Kunden getestet, was der beste Beweis für ihre Zuverlässigkeit und Haltbarkeit ist. Zahlreiche positive Bewertungen und Berichte zufriedener Kunden bestätigen, dass diese Schuhe auch die Erwartungen der anspruchsvollsten Männer erfüllen. Schließen Sie sich der Gruppe derjenigen an, die außergewöhnliche Qualität und Stil schätzen, indem Sie sich für unsere in Polen hergestellten Lederschuhe."
+  },
+  "WOMEN": {
+    "HEADER": "Damenschuhe",
+    "CONTENT": "Unsere Kollektion von Damenschuhen polnischer Firmen und Hersteller verbindet hochwertige Handwerkskunst mit ergonomischem Design. Jedes Paar ist präzise geformt, um den Füßen den ganzen Tag über den richtigen Halt und Komfort zu bieten. Wir arbeiten ausschließlich mit polnischen Firmen zusammen, um die Liebe zum Detail und die Langlebigkeit des Produkts zu gewährleisten. Mit unseren Schuhen entscheiden Sie sich für gesunde Materialien, die hautfreundlich sind und einen hohen Tragekomfort bieten. Unsere Schuhe sind eine Mischung aus Funktionalität, Stil und Wohlbefinden, geeignet für Frauen, die einen aktiven Lebensstil und Ästhetik schätzen."
+  },
+  "SPORT": {
+    "HEADER": "Sportschuhe",
+    "CONTENT": "Entdecken Sie unsere American Club schuhkollektion - leicht, bequem und mit dem Gedanken an alltäglichen Komfort entworfen. Die Kollektion umfasst Schuhe mit einer Memory-Foam-Einlegesohle, die sich der Form des Fußes anpasst, individuelle Unterstützung bietet und Ermüdungserscheinungen beim Gehen reduziert. Unsere Schuhe sind aus atmungsaktiven Materialien gefertigt, die die Füße lange Zeit trocken und bequem halten. Ihr geringes Gewicht macht sie zu einer idealen Wahl für alle, die einen aktiven Lebensstil schätzen. Wir bieten eine Vielzahl von Modellen an, die sowohl für den Alltag als auch für anspruchsvollere Bedingungen geeignet sind. Wählen Sie das Modell, das am besten zu Ihren Bedürfnissen passt."
+  },
+  "HOME": {
+    "HEADER": "Hausschuhe",
+    "CONTENT": "Wir bieten Hausschuhe von polnischen Herstellern an, die auf Komfort und Qualität setzen. Unsere in Polen aus natürlichen Materialien wie Leinen, Baumwolle und Leder hergestellten Hausschuhe verbinden Langlebigkeit mit Tragekomfort. Wenn Sie sich für unsere Produkte entscheiden, unterstützen Sie lokale Handwerkskunst und umweltfreundliche Materialien und sorgen für Komfort bei jedem Schritt. Unsere Pantoffeln sind ideal für den Hausgebrauch und in verschiedenen Ausführungen erhältlich, um Ihren Bedürfnissen gerecht zu werden."
   }
 }

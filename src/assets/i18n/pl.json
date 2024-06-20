@@ -7,7 +7,20 @@
     "HOME": "Domowe",
     "SPORT": "Sportowe"
   },
+  "MEN": {
+    "HEADER": "Buty Męskie",
+    "CONTENT": "Nasze buty męskie są tworzone z niezwykłą dbałością o szczegóły przez doświadczonych polskich rzemieślników, co gwarantuje ich niezrównaną jakość i trwałość. \nKażda para butów jest świadectwem pasji i umiejętności, co zapewnia im wyjątkową wytrzymałość i styl.\nW naszej ofercie znajdziesz buty wyprodukowane w Polsce przez sprawdzone i cenione firmy, które od lat cieszą się zaufaniem klientów. \nDzięki temu możesz być pewien, że wybierając nasze buty, inwestujesz w produkt, który został stworzony z myślą o latach noszenia. \nPonadto, nasze buty są testowane przez klientów od ponad 30 lat, co jest najlepszym dowodem na ich niezawodność i trwałość. \nLiczne pozytywne opinie i historie zadowolonych użytkowników potwierdzają, że buty te sprostają oczekiwaniom nawet najbardziej wymagających mężczyzn. \nDołącz do grona tych, którzy cenią sobie wyjątkową jakość i styl, wybierając nasze polskie szyte buty skórzane."
+  },
+  "WOMEN": {
+    "HEADER": "Buty Damskie",
+    "CONTENT": "Nasza kolekcja butów damskich, od polskich firm i producentów, łączy wysoką jakość wykonania z ergonomicznym designem. \nKażda para jest precyzyjnie wyprofilowana, aby zapewnić stopom odpowiednie wsparcie i wygodę przez cały dzień. \nWspółpracujemy wyłącznie z polskimi firmami, co gwarantuje dbałość o każdy detal i trwałość produktu.\nWybierając nasze buty, stawiasz na zdrowe materiały, które są przyjazne dla skóry i zapewniają komfort noszenia. \nNasze obuwie to połączenie funkcjonalności, stylu i dbałości o dobre samopoczucie, odpowiednie dla kobiet ceniących sobie aktywny tryb życia i estetykę."
+  },
   "SPORT": {
-    "HEADER": "Buty Sportowe"
+    "HEADER": "Buty Sportowe",
+    "CONTENT": "Poznaj naszą kolekcję butów od American Club - lekkie, wygodne i zaprojektowane z myślą o codziennym komforcie. \nW kolekcji buty z wkładką memory, która dopasowuje się do kształtu stopy, zapewniając indywidualne wsparcie i zmniejszając zmęczenie podczas chodzenia.\nNasze buty są wykonane z oddychających materiałów, co gwarantuje utrzymanie stóp w suchości i komforcie długi czas. \nIch lekka konstrukcja sprawia, że są one idealnym wyborem dla osób ceniących aktywny tryb życia.\nOferujemy różnorodność modeli, które sprawdzą się zarówno podczas codziennych aktywności, jak i w bardziej wymagających warunkach. \nZapraszamy do wybrania modelu, który najlepiej odpowiada Twoim potrzebom."
+  },
+  "HOME": {
+    "HEADER": "Buty Domowe",
+    "CONTENT": "Oferujemy kapcie domowe od polskich producentów, skoncentrowane na wygodzie i jakości. \nWyprodukowane w Polsce z naturalnych materiałów takich jak len, bawełna i skóra, nasze kapcie łączą trwałość z komfortem noszenia. \nWybierając nasze produkty, stawiasz na lokalne rzemiosło i ekologiczne surowce, zapewniając sobie wygodę w każdym kroku. \nIdealne do użytku domowego, nasze kapcie są dostępne w różnych stylach, aby dopasować się do Twoich potrzeb."
   }
 }

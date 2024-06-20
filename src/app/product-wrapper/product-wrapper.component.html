@@ -1,9 +1,12 @@
-<p-card header="{{ 'SPORT.HEADER' | translate }}" >
+<p-card header="{{ header | translate }}"  >
+  <p class="content">
+    {{ content | translate }}
+  </p>
   <gallery
       [flexBorderSize]="10"
-      [flexImageSize]="7"
-      [galleryName]="'sport'"
-      [maxRowsPerPage]="3"
+      [flexImageSize]="10"
+      [galleryName]="gallery"
+      [maxRowsPerPage]="maxRows"
       [includeViewer]="true"
       [lazyLoadGalleryImages]="true"
     ></gallery>

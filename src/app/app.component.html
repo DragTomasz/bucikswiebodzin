@@ -1,3 +1,28 @@
 <app-header></app-header>
-<app-product-wrapper></app-product-wrapper>
+
+<app-product-wrapper
+  [header]="'MEN.HEADER'"
+  [content]="'MEN.CONTENT'"
+  [maxRows]="2"
+  [gallery]="'men'">
+</app-product-wrapper>
+<app-product-wrapper
+  [header]="'WOMEN.HEADER'"
+  [content]="'WOMEN.CONTENT'"
+  [maxRows]="3"
+  [gallery]="'women'">
+</app-product-wrapper>
+<app-product-wrapper
+  [header]="'SPORT.HEADER'"
+  [content]="'SPORT.CONTENT'"
+  [maxRows]="3"
+  [gallery]="'sport'">
+</app-product-wrapper>
+<app-product-wrapper
+  [header]="'HOME.HEADER'"
+  [content]="'HOME.CONTENT'"
+  [maxRows]="3"
+  [gallery]="'home'">
+</app-product-wrapper>
+
 <app-footer></app-footer>
