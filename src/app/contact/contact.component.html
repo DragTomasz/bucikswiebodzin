@@ -1,0 +1,8 @@
+<p-card [header]="'CONTACT.HEADER' | translate">
+  <p class="content">
+    {{ 'CONTACT.CONTENT' | translate }}
+  </p>
+  <google-map [height]="'100%'" [width]="'100%'" [options]="this.mapOptions">
+    <map-marker (mapClick)="openInMap()" [position]="{lat: 52.246830, lng: 15.534752}" [title]="'Bucik'"></map-marker>
+  </google-map>
+</p-card>

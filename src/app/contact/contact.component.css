@@ -1,0 +1,29 @@
+.content {
+  margin-bottom: 30px;
+}
+
+google-map {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+@media (max-width: 768px) {
+  google-map {
+    height: 50vh; /* Zmniejsza wysokość mapy na mniejszych ekranach */
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  google-map {
+    height: 75vh; /* Ustawia średnią wysokość mapy na tabletach */
+  }
+}
+
+@media (min-width: 1025px) {
+  google-map {
+    height: 90vh; /* Ustawia większą wysokość mapy na dużych ekranach */
+  }
+}
