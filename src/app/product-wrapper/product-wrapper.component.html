@@ -1,10 +1,10 @@
-<p-card header="{{ header | translate }}"  >
+<p-card [header]="header | translate"  >
   <p class="content">
     {{ content | translate }}
   </p>
   <gallery
       [flexBorderSize]="10"
-      [flexImageSize]="10"
+      [flexImageSize]="14"
       [galleryName]="gallery"
       [maxRowsPerPage]="maxRows"
       [includeViewer]="true"
