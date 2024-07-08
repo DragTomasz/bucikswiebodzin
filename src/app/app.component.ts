@@ -1,4 +1,4 @@
-import {Component} from '@angular/core';
+import {AfterViewInit, Component, ElementRef, viewChild, ViewChild} from '@angular/core';
 import {RouterOutlet} from '@angular/router';
 import {HeaderComponent} from "./header/header.component";
 import {FooterComponent} from "./footer/footer.component";
@@ -13,5 +13,4 @@ import {ContactComponent} from "./contact/contact.component";
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-
 }
